@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Doowee Donut", "email": "DooweeDonut@gmail.com" },
+  { "id": 2, "name": "SkyFlakes Condensada", "email": "SkyFlakes@gmail.com" },
+  { "id": 3, "name": "Herobrine", "email": "Herobrine@gmail.com" },
+  { "id": 4, "name": "Ender Dragon", "email": "EnderDragon@gmail.com" },
+  { "id": 5, "name": "Piglins", "email": "Piglins@gmail.com" },
+  { "id": 6, "name": "Isopropyl Alcohol", "email": "IsopropylAlcohol@gmail.com" },
+  { "id": 7, "name": "Keyboard", "email": "Keyboard@gmail.com" },
+  { "id": 8, "name": "Charger", "email": "Charger@gmail.com" },
+  { "id": 9, "name": "Hansel", "email": "Hansel@gmail.com" },
+  { "id": 10, "name": "Rebisco Choco", "email": "RebiscoChoco@gmail.com" }
+]
